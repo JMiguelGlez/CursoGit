@@ -31,6 +31,7 @@ public class Animal {
  //Tiger myTiger = new Tiger();
 		myPig.animalSoundPig();
 		myPig.sleep();
+		System.out.println("Prueba de error");
  //myTiger.animalsoundTiger();
  //myTiger.sleep();
 	}

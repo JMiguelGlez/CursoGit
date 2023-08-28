@@ -53,6 +53,7 @@ public class Main2 {
         for (Forma forma : formas) {
             forma.mostrarInformacion();
             System.out.println("Área: " + forma.calcularArea());
+            System.out.println("Prueba de error");
             System.out.println();
         }
     }
