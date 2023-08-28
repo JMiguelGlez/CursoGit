@@ -54,6 +54,8 @@ public class Main2 {
             forma.mostrarInformacion();
             System.out.println("Área: " + forma.calcularArea());
             System.out.println("Prueba de error");
+            System.out.println("Ultima prueba de commit");
+            System.out.println("probando commit con los comandos");
             System.out.println();
         }
     }
