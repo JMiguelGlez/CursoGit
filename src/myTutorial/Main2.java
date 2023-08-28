@@ -56,6 +56,7 @@ public class Main2 {
             System.out.println("Prueba de error");
             System.out.println("Ultima prueba de commit");
             System.out.println("probando commit con los comandos");
+		System.out.println("Pruebas desde gitHub");
             System.out.println();
         }
     }
