@@ -33,6 +33,7 @@ public class Animal {
 		myPig.sleep();
 		System.out.println("Prueba de error");
 		System.out.println("Cambios en git");
+		System.out.println("Cambios por medio de gitHub");
  //myTiger.animalsoundTiger();
  //myTiger.sleep();
 	}
